@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zineb</h1>
 <h3 align="center">A passionate Full-stack developer from Morocco</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href="https://github.com/raidenshogen/LLM_Movie_Recommendation/"></a></h3>
 <p align="left">
 </p>
 
